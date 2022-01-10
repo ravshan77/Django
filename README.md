@@ -1,6 +1,6 @@
 # Django
 > This is a relatively small project and represents the Api of the post site.
-> Live demo [_here_](http://127.0.0.1:7000/). <!-- If you have the project hosted somewhere, include the link here. -->
+> Live demo [_here_](http://127.0.0.1:8000/). <!-- If you have the project hosted somewhere, include the link here. -->
 
 ## Table of Contents
 * [General Info](#general-information)
